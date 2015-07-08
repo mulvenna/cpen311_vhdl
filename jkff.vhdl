@@ -1,4 +1,4 @@
---summer 2015 assignment 2, question 3
+--summer 2015 assignment 2, question 1
 
 library ieee;
 use ieee.std_logic_1164.all;
