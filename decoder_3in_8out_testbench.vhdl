@@ -1,4 +1,4 @@
--- summer 2015 assignment 1 question 1
+-- summer 2015 assignment 1 question 2
 library IEEE;
 use IEEE.std_logic_1164.all;
 use IEEE.numeric_std.all;
