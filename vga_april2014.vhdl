@@ -13,8 +13,7 @@ end entity;
 
 --ASSUMPTION: We can read n during the reset
 --ASSUMPTION: We need to be able to draw a second pair of lines by setting resetn low
---            and providing a new value for n.
---            Note that the instructor's solution 
+--            and providing a new value for n. 
 --ASSUMPTION: We will not draw the same pixel twice for (n,n) which is part of both lines.
 --            Note that the instructor's solution draws (n,n) twice which takes an extra cycle.
 architecture behavioural of your_circuit is
